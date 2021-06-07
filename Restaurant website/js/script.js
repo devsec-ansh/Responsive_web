@@ -1,1 +1,1 @@
-alert("This is a Responsive web page. To see the resposivness of the site, use desktop chrome developer tools at different screen sizes. Thank you!")
+
